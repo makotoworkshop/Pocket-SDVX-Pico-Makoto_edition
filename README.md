@@ -1,4 +1,4 @@
-# Pocket-SDVX-Pico-v4
+# SDVX Pico Makoto's Édition − based on Speedy Potatoe's Pocket-SDVX-Pico-v4 −
 Pocket SDVX Pico Makoto's Édition source files, production files, and documentation
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
